@@ -1,0 +1,17 @@
+label { font-weight: bold; }
+legend { padding: 0 10px; font-weight: bold; font-size: 20px; line-height: 20px; }
+textarea { padding: 100px; }
+form.hform { margin-bottom: 180px; }
+form.hform label { float: left; width: 180px; }
+form.hform input { width: 192px;}
+form.hform p {display: inline; white-space: nowrap;}
+fieldset{
+    display: block;
+    margin-left: 50px;
+    margin-right: 865px;
+    padding-top: 0.95em;
+    padding-bottom: 0.2em;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+    border: 1px groove (internal value);
+    }
